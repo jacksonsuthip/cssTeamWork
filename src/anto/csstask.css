@@ -1,0 +1,47 @@
+/* .s1{
+    padding: 50px;
+} */
+tr {
+  border-bottom: 0px;
+}
+
+.search {
+  border-radius: 16px;
+}
+
+.txtBox {
+  border-radius: 20px;
+  border-color: #f1f1f1;
+  background-color: #f1f1f1;
+  width: 220px;
+}
+
+.contact {
+  width: 120px;
+  height: 34px;
+  color: white;
+  font-weight: bold;
+  border: 2px solid white;
+  background: linear-gradient(to right, #F55E2D, #FB7ED3);
+  border-radius: 10px;
+}
+
+.add-contact .cont-txt {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 3px;
+  color: white;
+}
+
+.cont-head {
+  width: 78px;
+  height: auto;
+  float: right;
+}
+
+.cont-head h6 {
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 6px;
+  color: white;
+}

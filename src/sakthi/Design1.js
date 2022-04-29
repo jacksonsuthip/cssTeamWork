@@ -6,7 +6,7 @@ import profile4 from './profile4.png';
 import profile5 from './profile5.png';
 import profile6 from './profile6.png';
 import profile7 from './profile7.png';
-import profile8 from './profile8.png';
+// import profile8 from './profile8.png';
 import align from './align.png';
 
 import './Style1.css';
@@ -45,9 +45,9 @@ function Design1() {
             <div className="box">
                 <img src={profile7} width="20" height="20" />
             </div>
-            <div className="box">
+            {/* <div className="box">
                 <img src={profile8} width="20" height="20" />
-            </div>
+            </div> */}
 
         </div>
     );

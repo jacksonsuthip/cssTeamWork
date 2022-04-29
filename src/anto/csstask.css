@@ -11,14 +11,15 @@ tr {
 
 .txtBox {
   border-radius: 20px;
-  border-color: #f1f1f1;
-  background-color: #f1f1f1;
-  width: 220px;
+  border-color: #f7f7f7;
+  background-color: #f7f7f7;
+  width: 210px;
+  height: 25px;
 }
 
 .contact {
   width: 120px;
-  height: 34px;
+  height: 33px;
   color: white;
   font-weight: bold;
   border: 2px solid white;
@@ -44,4 +45,40 @@ tr {
   font-weight: bold;
   margin-top: 6px;
   color: white;
+}
+
+.s2 {
+  display: flex;
+}
+
+.s3 {
+  display: flex;
+}
+
+.conPNG {
+  padding-top: 35px;
+}
+
+.ContactsBB {
+  padding-left: 9px;
+}
+
+.SortBy {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.searchBTN {
+  padding-top: 10px;
+  padding-left: 58px;
+}
+
+.addConBtn {
+  padding-top: 9px;
+  padding-left: 45px;
+}
+
+::-webkit-input-placeholder {
+  font-size: smaller;
+  padding-left: 10px;
 }

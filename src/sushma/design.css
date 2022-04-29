@@ -4,11 +4,14 @@
     margin-left: 50px;
 }
 .logo{
-    border-radius: 30px;
+    border-radius: 35px;
     background-color: #ebd750;
     width:57px;
     padding: 6px 6px;
     margin-left: 155px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
 }
 .name{
     font-size: 20px; 
@@ -43,7 +46,7 @@ tr{
 }
 .notice{
     background-color: #f1f1f1;
-    width:350px;
+    width: 310px;
     margin-top: 16px;
     padding: 20px;
     margin-left: 50px;
@@ -63,8 +66,8 @@ tr{
     padding: 0px 6px;
     
 }
-.infnRight{
+/* .infnRight{
     margin-left: 450px;
     margin-bottom: 600px;
     margin-top: 550px;
-}
+} */

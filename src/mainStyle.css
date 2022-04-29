@@ -1,4 +1,4 @@
-.headermain{
+/*.headermain{
     padding-left: 50px;
 }
 .design1main{
@@ -6,7 +6,6 @@
     margin-top: -35px;
 }
 .csstaskmain{
-    /* height: 40%; */
     margin-left: 120px;
     margin-top: -600px;
     width: 40%;
@@ -18,4 +17,34 @@
 .fdmain{
     margin-top: -490px;
     margin-left: 220px;
+} */
+
+* {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.frow {
+    display: flex;
+    /* background-color: #f1f1f1; */
+}
+
+.headermain {
+    padding-left: 42px;
+}
+
+.design1main {
+    /* width: 3%; */
+    margin-top: -40px;
+}
+
+.csstaskmain {
+    /* margin-left: 120px;
+    margin-top: 0px;
+    width: 40%; */
+    padding-left: 100px;
+}
+
+.fdmain {
+    padding: 100px;
+    padding-top: 190px;
 }

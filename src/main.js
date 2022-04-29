@@ -9,11 +9,19 @@ import FrontDesign from "./sushma/FrontDesign";
 function Main() {
     return (
         <>
-            <div className="headermain"><Header /></div>
+            {/* <div className="headermain"><Header /></div>
             <div className="design1main"><Design1 /></div>
             <div className="csstaskmain"><CssTask /></div>
             <div className="designmain"><Design /></div>
-            <div className="fdmain"><FrontDesign /></div>
+            <div className="fdmain"><FrontDesign /></div> */}
+            
+            <div className="headermain"><Header /></div>
+
+            <div className="frow">
+                <div className="design1main" ><Design1 /></div>
+                <div className="csstaskmain" ><CssTask /> <Design /></div>
+                <div className="fdmain"><FrontDesign /></div>
+            </div>
         </>
     );
 }

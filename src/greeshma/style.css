@@ -1,7 +1,7 @@
 
 .container
 {
-    width: 50%;
+    width: 100%;
     float: auto;
     height:auto;
 }
@@ -23,25 +23,32 @@
 }
 .basic-head
 {
-    width: 332px;
+    width: 360px;
     float: left;
     height: 38px;
     background: #f1f1f1;
+    padding-top: 10px;
 }
 .basic-head h4{
     color: #BDBCBB  ;
     font-size: 14px;
     margin-top: 4px;
-    margin-left: 25px;
-    width: 95px;
+    margin-left: 41px;
+    width: 75px;
     float: left;
 }
+
+.plus h4{
+    width: 5px;
+}
 .basic-head h3{
-    font-size: 14px;
-    width: 136px;
-    color: #BDBCBB  ;
-    float: right;
+    /* font-size: 20px; */
+    font-weight: 800;
+    width: 10px;
+    color: black  ;
+    float: left;
     margin-top:4px ;
+    margin-left: 25px;
 
 }
 .add-btn
@@ -112,12 +119,14 @@ input[type='checkbox']
     width: 100px;
     height: auto;
     float: left;
-    margin-left: 30px;
+    margin-left: 3px;
+    margin-top: -20px;
 }
 .cont-para
 {
     float: left;
     font-size: 10px;
+    margin-top: -20px;
 }
 .cont-right
 {

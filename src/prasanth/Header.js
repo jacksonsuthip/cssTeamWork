@@ -7,28 +7,24 @@ const Header = () => {
 
             <div class="row">
                 <div id="content_nav" >
-                    <form>
-                        <div class="input-field">
-                            {/* <input id="search" type="search" /> */}
-                            <label for="search"><i class="fa fa-search"></i></label>
-                        </div>
-                    </form>
-
-                    <div class="nav_header ">
-                        <li>
+                    <div >
+                        <label for="search"><i class="fa fa-search"></i></label>
+                        <li className='mark1'>
                             <i class="fa fa-plus"></i> Add
                         </li>
-                        <li>
+                        <li className='mark2'>
                             <i class="fa fa-envelope"></i>
                         </li>
-                        <li>
-                            <span>Mark Henry</span>
+                        <li className='mark3'>
+                            <span>Mark Henry &nbsp;</span>
                             <i class="fa fa-caret-down"></i>
                         </li>
-                        <li>
+                        <li className='mark4'>
                             <i class="fa fa-bell"></i>
                         </li>
                     </div>
+
+
                 </div>
             </div>
         </div>

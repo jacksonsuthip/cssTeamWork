@@ -1,0 +1,70 @@
+.information{
+    background-color: #f1f1f1;
+    width:350px;
+    margin-left: 50px;
+}
+.logo{
+    border-radius: 30px;
+    background-color: #ebd750;
+    width:57px;
+    padding: 6px 6px;
+    margin-left: 155px;
+}
+.name{
+    font-size: 20px; 
+    margin: 0px;
+    margin-left: 125px;
+}
+.designation{
+    font-size: 12px;
+    margin-left: 72px;
+}
+.infn{
+    padding-top: 25px;
+   
+}
+.table{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.table-value{
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.table-head{
+    font-weight: lighter;
+    padding-top: 12px; 
+    padding-bottom: 12px;   
+}
+tr{
+    border-bottom: 0.1px solid rgb(212, 204, 204);    
+}
+.notice{
+    background-color: #f1f1f1;
+    width:350px;
+    margin-top: 16px;
+    padding: 20px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 11px;
+    height:80px;
+}
+.subinfn{
+    font-size: 9px;
+    font-weight: lighter;
+}
+.subdetails{
+    border-bottom: 0; 
+}
+.dot{
+    background-color: #e4e1e1;
+    padding: 0px 6px;
+    
+}
+.infnRight{
+    margin-left: 450px;
+    margin-bottom: 600px;
+    margin-top: 550px;
+}
